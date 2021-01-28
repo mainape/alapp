@@ -36,7 +36,7 @@ https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
 https://bit.ly/35EmGO5
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/Wad6CD4.png",NETMAX TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+https://raw.githubusercontent.com/MiriDevAndro/albaniaiptv/master/il
 
 
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Wad6CD4.png",NETMAX TV
