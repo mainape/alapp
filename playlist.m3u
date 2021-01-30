@@ -23,10 +23,9 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/197.ts
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/169.ts
 #EXTINF: -1 tvg-logo="logo.png" group-title="KRYESORE",AL.T HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/170.ts
-
+#EXTINF:-1 group-title="TV 2" ,BANG BANG #EXTVLCOPT:http-user-agent=cooccar http://arabicapps.ddns.net:86/live/reg54hgf/tg43ui76viz/228.ts
 #EXTINF:-1 group-title="TV 2" ,Alsat TV 
-#EXTVLCOPT:http-user-agent=cooccar 
-http://arabicapps.ddns.net:86/live/reg54hgf/tg43ui76viz/169.ts
+#EXTVLCOPT:http-user-agent=cooccar http://arabicapps.ddns.net:86/live/reg54hgf/tg43ui76viz/169.ts
 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 1 
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8 
 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 2 
