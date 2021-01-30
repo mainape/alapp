@@ -29,32 +29,102 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/169.ts
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/170.ts
 
 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 1 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 2 https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 3 http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 24 https://tvlive.rtsh.dev/live/rtsh_24_ott_p3/playlist.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Plus http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Shqip http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSHsport https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH ShkollÃ« https://tvlive.rtsh.dev/live/rtsh_shkolle_mob_p2/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Agro https://tvlive.rtsh.dev/live/rtsh_agro_ott_p2/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH MuzikÃ« https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p2/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Film https://tvlive.rtsh.dev/live/rtsh_film_mob_p2/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH SHqip https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Kuvend https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott_p1/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH KorÃ§a https://tvlive.rtsh.dev/live/rtsh_korca_ott_p2/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Gjirokastra https://tvlive.rtsh.dev/live/rtsh_gjirokastra_mob_p1/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH KukÃ«si https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Pluse https://tvlive.rtsh.dev/live/rtsh_plus_ott_p2/playlist.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",top channel http://mobflussonic1.tibo.tv/topchannelhd/mpegts #EXTINF:-1 tvg-id="" tvg-name="RTK 1 AL" tvg-logo="http://picon.space/rtk1al.png" ,RTK 1 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8 #EXTINF:-1 tvg-id="" tvg-name="RTK 3 " tvg-logo="http://picon.space/rtk3al.png" ,RTK 3 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="RTK 4 " tvg-logo="http://picon.space/rtk4al.png" ,RTK 4 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8 
-#EXTINF:0,RROKUM http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8 
-#EXTINF:0,CHANNEL ONE http://145.239.2.153:8081/channelone/channelone/playlist.m3u8 
-#EXTINF:0,IN TV HD http://80.90.86.195:1935/live/livestream/playlist.m3u8 
-#EXTINF:0,Topestrada http://27.shqiptv.org/live/topestrada/index.m3u8 
-#EXTINF:0,EURO AL http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",ALB MUSIC HD http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8 #EXTINF:0, Istogu Channel HD http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",ZJARR HD http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",TV DIELLI http://51.15.180.159:8081/play/hls/dielli/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="TV Opoja " tvg-logo="http://picon.space/tvopoja.png" ,TV Opoja http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8 
-#EXTINF:0, KOHA TV rtmp://live.tvkoha.tv/live/koha/livestream 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",al usa tv http://stream.shqiptv.com:7080/altvusa/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="RTV ZIK" tvg-logo="http://iptvfalas.com/zik.png" ,RTV ZIK http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",SYRIBLUE HD http://live.syri.tv:6969/live/syriblue/hd/23.ts 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",SYRIVISION http://178.132.6.97/SYRIVISION1/index.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",ALB UK rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream 
-#EXTINF:0,Tv 7 Albania http://media.az-mediaserver.com:1935/7064/7064/chunklist.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",A1 report http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8 #EXTINF:0,ORANEWS http://145.239.2.153:8081/oranews/live/playlist.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",7 News https://stream.shqiptv.com/tst/7NEWS-8761-sd/index.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",NEWS 24 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH", Dream TV http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",M2O TV http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on 
-#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",NRJ HITS http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH", myHit http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 1 
+http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 2 
+https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 3 
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 24 
+https://tvlive.rtsh.dev/live/rtsh_24_ott_p3/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Plus 
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Shqip 
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSHsport 
+https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH ShkollÃ« 
+https://tvlive.rtsh.dev/live/rtsh_shkolle_mob_p2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Agro 
+https://tvlive.rtsh.dev/live/rtsh_agro_ott_p2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH MuzikÃ« 
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Film 
+https://tvlive.rtsh.dev/live/rtsh_film_mob_p2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH SHqip 
+https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Kuvend 
+https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott_p1/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH KorÃ§a 
+https://tvlive.rtsh.dev/live/rtsh_korca_ott_p2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Gjirokastra 
+https://tvlive.rtsh.dev/live/rtsh_gjirokastra_mob_p1/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH KukÃ«si 
+https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH Pluse 
+https://tvlive.rtsh.dev/live/rtsh_plus_ott_p2/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",top channel 
+http://mobflussonic1.tibo.tv/topchannelhd/mpegts 
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 AL 
+http://picon.space/rtk1al.png" ,RTK 1 
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3 
+http://picon.space/rtk3al.png" ,RTK 3 
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4 
+http://picon.space/rtk4al.png" ,RTK 4 
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8 
+#EXTINF:1 tvg-logo="logo.png" group-title="RTSH",RROKUM 
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8 
+#EXTINF:1 tvg-logo="logo.png" group-title="RTSH",CHANNEL ONE 
+http://145.239.2.153:8081/channelone/channelone/playlist.m3u8 
+#EXTINF:1 tvg-logo="logo.png" group-title="RTSH",IN TV HD 
+http://80.90.86.195:1935/live/livestream/playlist.m3u8 
+#EXTINF:1 tvg-logo="logo.png" group-title="RTSH",Topestrada 
+http://27.shqiptv.org/live/topestrada/index.m3u8 
+#EXTINF:1 tvg-logo="logo.png" group-title="RTSH",EURO AL 
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",ALB MUSIC HD 
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8 
+#EXTINF:1 tvg-logo="logo.png" group-title="RTSH", Istogu Channel HD 
+http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",ZJARR HD 
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",TV DIELLI 
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja " tvg-logo="
+http://picon.space/tvopoja.png" ,TV Opoja 
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8 
+#EXTINF:1 tvg-logo="logo.png" group-title="RTSH",KOHA TV 
+rtmp://live.tvkoha.tv/live/koha/livestream 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",al usa tv 
+http://stream.shqiptv.com:7080/altvusa/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="RTV ZIK" tvg-logo="
+http://iptvfalas.com/zik.png" ,RTV ZIK 
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",SYRIBLUE HD 
+http://live.syri.tv:6969/live/syriblue/hd/23.ts 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",SYRIVISION 
+http://178.132.6.97/SYRIVISION1/index.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",ALB UK 
+rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream 
+#EXTINF:1 tvg-logo="logo.png" group-title="RTSH",Tv 7 Albania 
+http://media.az-mediaserver.com:1935/7064/7064/chunklist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",A1 report 
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8 
+#EXTINF:0,ORANEWS http://145.239.2.153:8081/oranews/live/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",7 News 
+https://stream.shqiptv.com/tst/7NEWS-8761-sd/index.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",NEWS 24 
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH", Dream TV 
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",M2O TV 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",NRJ HITS 
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 
+#EXTINF: -1 tvg-logo="logo.png" group-title="RTSH", myHit 
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8 
 
 
 #EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",Al.Explorer Shkence
