@@ -1,8 +1,4 @@
 #EXTM3U 
-
-
-
-
 #EXTINF: -1 tvg-logo="logo.png" group-title="KRYESORE",AL.TOP CHANEL
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/164.ts
 #EXTINF: -1 tvg-logo="logo.png" group-title="KRYESORE",AL.KLAN TV
@@ -28,7 +24,8 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/169.ts
 #EXTINF: -1 tvg-logo="logo.png" group-title="KRYESORE",AL.T HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/170.ts
 
-
+#EXTINF:-1 group-title="TV 2" ,Alsat TV #EXTVLCOPT:http-user-agent=cooccar 
+http://arabicapps.ddns.net:86/live/reg54hgf/tg43ui76viz/169.ts
 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 1 
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8 
 #EXTINF: -1 tvg-logo="logo.png" group-title="RTSH",RTSH 2 
@@ -127,85 +124,85 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8 
 
 
-#EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",Al.Explorer Shkence
+#EXTINF:-1 group-title="DOKUMENTAR",Al.Explorer Shkence
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/225.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",Al.Explorer Natyra
+#EXTINF:-1 group-title="DOKUMENTAR",Al.Explorer Natyra
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/224.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",Al.Explorer Histori
+#EXTINF:-1 group-title="DOKUMENTAR",Al.Explorer Histori
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/226.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",Tring World
+#EXTINF:-1 group-title="DOKUMENTAR",Tring World
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/249.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",Tring Planet
+#EXTINF:-1 group-title="DOKUMENTAR",Tring Planet
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/250.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",Tring History
+#EXTINF:-1 group-title="DOKUMENTAR",Tring History
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/251.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",X TRILER
+#EXTINF:-1 group-title="DOKUMENTAR",X TRILER
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/160.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",X SHKENC
+#EXTINF:-1 group-title="DOKUMENTAR",X SHKENC
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/132.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",X NATYRE
+#EXTINF:-1 group-title="DOKUMENTAR",X NATYRE
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/134.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="DOKUMENTAR",X Histori HD
+#EXTINF:-1 group-title="DOKUMENTAR",X Histori HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/129.ts
 
 
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Film Aksion
+#EXTINF:-1 group-title="FILMA",Film Aksion
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/171.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Al.Film-Thriller
+#EXTINF:-1 group-title="FILMA",Al.Film-Thriller
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/243.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",AL.Film nje hd
+#EXTINF:-1 group-title="FILMA",AL.Film nje hd
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/174.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",AL.Film Komedi
+#EXTINF:-1 group-title="FILMA",AL.Film Komedi
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/172.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",AL.Film Hits
+#EXTINF:-1 group-title="FILMA",AL.Film Hits
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/173.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Film Dy HD
+#EXTINF:-1 group-title="FILMA",Film Dy HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/175.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",AL.Film Dram
+#EXTINF:-1 group-title="FILMA",AL.Film Dram
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/176.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",AL.Film Autor
+#EXTINF:-1 group-title="FILMA",AL.Film Autor
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/177.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Family-HD
+#EXTINF:-1 group-title="FILMA",Family-HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/428.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",ART Kino 1 HD
+#EXTINF:-1 group-title="FILMA",ART Kino 1 HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/442.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",ART Kino 2 HD
+#EXTINF:-1 group-title="FILMA",ART Kino 2 HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/441.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",ART Kino 3 HD
+#EXTINF:-1 group-title="FILMA",ART Kino 3 HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/440.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",AL.Kino premier 1
+#EXTINF:-1 group-title="FILMA",AL.Kino premier 1
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/79.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Al.Kino premium 2
+#EXTINF:-1 group-title="FILMA",Al.Kino premium 2
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/80.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Al.Kino premium 3
+#EXTINF:-1 group-title="FILMA",Al.Kino premium 3
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/81.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",AL.Kino premier  4
+#EXTINF:-1 group-title="FILMA",AL.Kino premier  4
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/133.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Q Premium 5HD
+#EXTINF:-1 group-title="FILMA",Q Premium 5HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/416.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Q Premium 4HD
+#EXTINF:-1 group-title="FILMA",Q Premium 4HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/417.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Q Premium 3HD
+#EXTINF:-1 group-title="FILMA",Q Premium 3HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/418.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Q Premium 2HD
+#EXTINF:-1 group-title="FILMA",Q Premium 2HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/419.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Q Premium 1HD
+#EXTINF:-1 group-title="FILMA",Q Premium 1HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/420.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Al.Tring-Super
+#EXTINF:-1 group-title="FILMA",Al.Tring-Super
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/230.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Al.Tring-Life
+#EXTINF:-1 group-title="FILMA",Al.Tring-Life
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/234.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Al.Tring-Fantasy
+#EXTINF:-1 group-title="FILMA",Al.Tring-Fantasy
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/233.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Al.Tring-Comedy
+#EXTINF:-1 group-title="FILMA",Al.Tring-Comedy
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/232.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Al.Tring-Action
+#EXTINF:-1 group-title="FILMA",Al.Tring-Action
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/231.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Al.tring shqip
+#EXTINF:-1 group-title="FILMA",Al.tring shqip
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/229.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",FILM SHQIP
+#EXTINF:-1 group-title="FILMA",FILM SHQIP
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/429.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FILMA",Jolly HD
+#EXTINF:-1 group-title="FILMA",Jolly HD
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/311.ts
 
 
@@ -214,60 +211,59 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/311.ts
 
 
 
-#EXTINF: -1 tvg-logo="logo.png" group-title="FEMINJE",CUFO
+#EXTINF:-1 group-title="FEMINJE",CUFO
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/227.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FEMINJE",BANG BANG
+#EXTINF:-1 group-title="FEMINJE",BANG BANG
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/228.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FEMINJE",Tring Kids
+#EXTINF:-1 group-title="FEMINJE",Tring Kids
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/308.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FEMINJE",Minions
+#EXTINF:-1 group-title="FEMINJE",Minions
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/402.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FEMINJE",Tomand Jerry
+#EXTINF:-1 group-title="FEMINJE",Tomand Jerry
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/403.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="FEMINJE",Junior TV
+#EXTINF:-1 group-title="FEMINJE",Junior TV
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/404.ts
 
 
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Art Sport 1
+#EXTINF:-1 group-title="SPORT",Art Sport 1
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/443.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Art Sport 2
+#EXTINF:-1 group-title="SPORT",Art Sport 2
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/444.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Art Sport 3
+#EXTINF:-1 group-title="SPORT",Art Sport 3
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/445.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Tring-Sport 1
+#EXTINF:-1 group-title="SPORT",Tring-Sport 1
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/240.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Tring-Sport 2
+#EXTINF:-1 group-title="SPORT",Tring-Sport 2
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/241.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Tring Sport 3
+#EXTINF:-1 group-title="SPORT",Tring Sport 3
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/242.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Tring-Sport 4
+#EXTINF:-1 group-title="SPORT",Tring-Sport 4
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/307.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Super Sport 1
+#EXTINF:-1 group-title="SPORT",Super Sport 1
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/235.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Super Sport 2
+#EXTINF:-1 group-title="SPORT",Super Sport 2
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/236.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Super Sport 3
+#EXTINF:-1 group-title="SPORT",Super Sport 3
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/237.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Super Sport 4
+#EXTINF:-1 group-title="SPORT",Super Sport 4
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/238.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Super Sport 5
+#EXTINF:-1 group-title="SPORT",Super Sport 5
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/239.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Kujtesa Sport 1
+#EXTINF:-1 group-title="SPORT",Kujtesa Sport 1
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/269.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Kujtesa sport 2
+#EXTINF:-1 group-title="SPORT",Kujtesa sport 2
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/270.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Kujtesa sport 3
+#EXTINF:-1 group-title="SPORT",Kujtesa sport 3
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/271.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="SPORT",Kujtesa sport 4
+#EXTINF:-1 group-title="SPORT",Kujtesa sport 4
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/272.ts
 
-#EXTINF: -1 tvg-logo="logo.png" group-title="MUZIK",Folk+
+#EXTINF:-1 group-title="MUZIK",Folk+
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/309.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="MUZIK",Elrodi
+#EXTINF:-1 group-title="MUZIK",Elrodi
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/310.ts
-#EXTINF: -1 tvg-logo="logo.png" group-title="MUZIK",OPOJA
+#EXTINF:-1 group-title="MUZIK",OPOJA
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/286.ts
-
 #EXTINF:-1 group-title="GRjjjjEECE",ERT 1 HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 
