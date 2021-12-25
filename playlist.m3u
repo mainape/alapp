@@ -1,6 +1,6 @@
-
-<!-- saved from url=(0028)http://104.149.213.2/kan.php -->
-<html wtx-context="07812DAA-B0EF-4053-8F4B-3ECE68A0602A"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
+#EXTM3U
+#EXTINF:-1,Spiderman
+https://sw.vidce.net:443/d/mj_CzeFvAjwgNA4HfiCbhQ/1641066800/2018/2015/tt10872600.mp4
 #EXTINF: 0 tvg-ID="" tvg-name="RTK 1" tvg-logo="http://iptvshqipott.com/logo/TV/rtk1.png" group-title="TV 4",RTK 1
 http://iptv.serveri.stream:8080/free/free/1
 #EXTVLCOPT:user=
